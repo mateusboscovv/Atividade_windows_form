@@ -1,0 +1,10 @@
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\bin\Debug\segundo_exercício_windows_form.exe.config
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\bin\Debug\segundo_exercício_windows_form.exe
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\bin\Debug\segundo_exercício_windows_form.pdb
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.csproj.AssemblyReference.cache
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.Form1.resources
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.Properties.Resources.resources
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.csproj.GenerateResource.cache
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.csproj.CoreCompileInputs.cache
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.exe
+C:\Atividades\Arquivos_Software\ETE\Desenvolvimento de App\segundo_exercício_windows_form\obj\Debug\segundo_exercício_windows_form.pdb
